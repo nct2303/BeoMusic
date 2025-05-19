@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#9C27B0</color> <!-- Đây là màu tím mặc định, bạn có thể thay đổi -->
+    <color name="dark_purple">#1F1936</color>
+    <color name="purple">#3C2B67</color>
+    <color name="blue">#2E3FD4</color>
+    <color name="light_gray">#B3B3B3</color>
+
+    <!-- Màu sắc chính -->
+    <color name="medium_purple">#2D2640</color>
+    <color name="light_purple">#3D3654</color>
+
+    <!-- Màu accent -->
+    <color name="accent_color">#7C4DFF</color>
+
+    <!-- Màu text và UI -->
+    <color name="medium_gray">#8A8A8A</color>
+
+    <!-- Màu nền cho gradient -->
+    <color name="gradient_start">#191524</color>
+    <color name="gradient_end">#30243E</color>
+</resources>

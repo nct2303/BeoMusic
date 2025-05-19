@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "124453599068",
+    "project_id": "myappmusicconbeo",
+    "storage_bucket": "myappmusicconbeo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124453599068:android:9602d7ffa33243ae273399",
+        "android_client_info": {
+          "package_name": "com.example.beomusic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKMpyuNW3k28YZCyTXd7LzpoUtnyp7ZFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

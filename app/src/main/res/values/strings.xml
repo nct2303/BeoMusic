@@ -1,0 +1,93 @@
+<resources>
+    <!-- App -->
+    <string name="app_name">BeoMusic</string>
+    <string name="app_logo">App Logo</string>
+
+    <!-- Authentication -->
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="logout">Đăng xuất</string>
+    <string name="email">Email</string>
+    <string name="password">Mật khẩu</string>
+    <string name="confirm_password">Xác nhận mật khẩu</string>
+    <string name="remember_me">Ghi nhớ đăng nhập (30 ngày)</string>
+    <string name="no_account_prompt">Bạn chưa có tài khoản?</string>
+    <string name="register_title">Tạo tài khoản mới</string>
+    <string name="back_to_login">Quay lại đăng nhập</string>
+    <string name="full_name">Họ và tên</string>
+    <string name="username">Tên người dùng</string>
+    <string name="terms_agreement">Tôi đồng ý với các điều khoản sử dụng</string>
+    <string name="password_requirements">Mật khẩu phải có ít nhất 8 ký tự và 3 trong 4 loại: chữ hoa, chữ thường, số, ký tự đặc biệt</string>
+
+    <!-- Account -->
+    <string name="account_title">Tài khoản của tôi</string>
+    <string name="profile_info">Thông tin cá nhân</string>
+    <string name="username_label">Tên người dùng:</string>
+    <string name="username_value">Tên người dùng: %1$s</string>
+    <string name="email_label">Email:</string>
+    <string name="email_value">Email: %1$s</string>
+    <string name="full_name_label">Họ và tên:</string>
+    <string name="full_name_value">Họ và tên: %1$s</string>
+    <string name="account_created_label">Ngày tạo tài khoản:</string>
+    <string name="account_created_value">Ngày tạo tài khoản: %1$s</string>
+    <string name="last_login_label">Đăng nhập gần nhất:</string>
+    <string name="last_login_value">Đăng nhập gần nhất: %1$s</string>
+    <string name="edit_profile">Chỉnh sửa hồ sơ</string>
+    <string name="account_security">Bảo mật tài khoản</string>
+    <string name="change_password">Đổi mật khẩu</string>
+    <string name="delete_account">Xóa tài khoản</string>
+    <string name="profile_updated">Hồ sơ đã được cập nhật</string>
+    <string name="password_updated">Mật khẩu đã được cập nhật</string>
+    <string name="account_deleted">Tài khoản đã được xóa</string>
+    <string name="delete_account_confirmation">Bạn có chắc chắn muốn xóa tài khoản? Hành động này không thể hoàn tác và tất cả dữ liệu của bạn sẽ bị xóa vĩnh viễn.</string>
+
+    <!-- Albums -->
+    <string name="my_albums">Album của tôi</string>
+    <string name="album_count_label">Số lượng album:</string>
+    <string name="album_count_value">Số lượng album: %1$d</string>
+    <string name="view_albums">Xem album</string>
+    <string name="create_album">Tạo album mới</string>
+    <string name="album_title">Tên album</string>
+    <string name="album_description">Mô tả (tùy chọn)</string>
+    <string name="select_cover">Chọn ảnh bìa</string>
+    <string name="cancel">Hủy</string>
+    <string name="save">Lưu</string>
+    <string name="delete">Xóa</string>
+    <string name="album_created">Album đã được tạo</string>
+    <string name="album_updated">Album đã được cập nhật</string>
+    <string name="album_deleted">Album đã được xóa</string>
+    <string name="album_details">Chi tiết album</string>
+    <string name="edit_album">Chỉnh sửa album</string>
+    <string name="delete_album">Xóa album</string>
+    <string name="delete_album_confirmation">Bạn có chắc chắn muốn xóa album này? Hành động này không thể hoàn tác.</string>
+    <string name="add_songs">Thêm bài hát</string>
+    <string name="no_songs">Chưa có bài hát nào trong album này</string>
+    <string name="song_count">%1$d bài hát</string>
+    <string name="created_date">Ngày tạo: %1$s</string>
+    <string name="remove_from_album">Xóa khỏi album</string>
+    <string name="song_removed">Đã xóa bài hát khỏi album</string>
+
+    <!-- Error messages -->
+    <string name="error_field_required">Trường này là bắt buộc</string>
+    <string name="error_invalid_email">Email không hợp lệ</string>
+    <string name="error_password_not_secure">Mật khẩu không đủ mạnh</string>
+    <string name="error_passwords_dont_match">Mật khẩu không khớp</string>
+    <string name="error_username_too_short">Tên người dùng phải có ít nhất 3 ký tự</string>
+    <string name="error_terms_required">Bạn phải đồng ý với điều khoản sử dụng</string>
+    <string name="error_fields_required">Vui lòng điền đầy đủ thông tin</string>
+    <string name="error_incorrect_password">Mật khẩu không chính xác</string>
+    <string name="error_password_required">Vui lòng nhập mật khẩu</string>
+
+    <string name="back">Back</string>
+    <string name="menu">Menu</string>
+    <string name="shuffle">Shuffle</string>
+    <string name="previous">Previous</string>
+    <string name="play_pause">Play/Pause</string>
+    <string name="next">Next</string>
+    <string name="repeat">Repeat</string>
+    <string name="current_time">1:07</string>
+    <string name="total_time">3:36</string>
+    <string name="song_title">Not like us</string>
+    <string name="song_artist">Kendric Lamar</string>
+
+</resources>

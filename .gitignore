@@ -1,0 +1,35 @@
+# -------------------------------
+# Các file và thư mục build tự động
+# -------------------------------
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# -------------------------------
+# Cấu hình cục bộ (đường dẫn SDK,...)
+# -------------------------------
+local.properties
+
+# -------------------------------
+# File hệ điều hành
+# -------------------------------
+.DS_Store
+
+# -------------------------------
+# Các file cấu hình IntelliJ/Android Studio không cần chia sẻ
+# (chỉ bỏ qua những file thay đổi theo máy và không cần thiết cho cấu hình chung)
+# -------------------------------
+*.iml
+.idea/caches/
+.idea/libraries/
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+
+# Giữ lại các tệp cấu hình chạy
+!.idea/runConfigurations/
+!.idea/runConfigurations.xml
+.idea/misc.xml
+.idea
